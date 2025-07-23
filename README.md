@@ -12,7 +12,7 @@ Este es un proyecto final para la materia de Modelos Predictivos de la Maestría
 - Carpeta con los Dataset Originales
 - Carpeta con los Dataset obtenidos
 - Codigos del Proyecto
-##Dataset
+## Dataset
 - Fuente: [2015 Flight Delays and Cancellations - Kaggle](https://www.kaggle.com/datasets/usdot/flight-delays)
 - Tamaño de la muestra: 500,000 registros seleccionados aleatoriamente.
 - Variables utilizadas:
