@@ -25,7 +25,7 @@ Se probaron varios clasificadores con técnicas de balanceo de clases:
 
 - Regresión Logística
 - Random Forest
-- Gradient Boosting
+- Hist Gradient Boosting
 - LightGBM
 - XBoost
 - CatBoost
