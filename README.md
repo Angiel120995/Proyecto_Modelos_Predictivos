@@ -61,4 +61,4 @@ Métricas evaluadas:
 - Matriz de Confusión
 - AUC-ROC
 
-- Dado el desbalance de clases, se priorizó **recall** y **F1-score** de la clase minoritaria.
+**Importante: Dado el desbalance de clases, se priorizó **recall** y **F1-score** de la clase minoritaria**
